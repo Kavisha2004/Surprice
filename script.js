@@ -9,7 +9,7 @@ const CONFIG = {
   myName: "Kavisha",
   girlfriendName: "Nethmini",
   anniversaryDate: "14 September 2024",
-  unlockDate: "2026-09-08T12:44:00"
+  unlockDate: "2026-09-08T12:54:00"
 };
 
 // ================================
