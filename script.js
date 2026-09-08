@@ -171,12 +171,12 @@ function renderMemories() {
       <div class="memory-photo-wrap">
         <div class="memory-photo-frame">
           <img class="memory-photo" src="${escapeHtml(memory.photo)}" alt="Memory from ${escapeHtml(memory.date)} — ${escapeHtml(memory.place)}" loading="lazy" decoding="async" onerror="this.closest('.memory-photo-wrap').classList.add('photo-missing'); this.remove();">
-          <div class="photo-missing-label" aria-hidden="true">Add this memory photo ❤️</div>
+          <div class="photo-missing-label" aria-hidden="true"></div>
         </div>
       </div>
     ` : `
       <div class="memory-photo-wrap photo-missing">
-        <div class="memory-photo-frame"><div class="photo-missing-label">Add this memory photo ❤️</div></div>
+        <div class="memory-photo-frame"><div class="photo-missing-label"></div></div>
       </div>
     `;
 
