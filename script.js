@@ -22,63 +22,63 @@ const memories = [
     place: "Vihara Maha Devi Park",
     photo: "assets/memory-01.jpg",
     description: "The first chapter of our story — the day everything began.",
-    photos: "GOOGLE_PHOTOS_LINK_1"
+    photos: "https://drive.google.com/drive/folders/1CCXTVMVDnGUb7yugVuHwJ4hbr-Ocwc8k?usp=sharing"
   },
   {
     date: "05 February 2025",
     place: "Gold Gace, Colombo",
     photo: "assets/memory-02.jpg",
     description: "Another little day that quietly became a beautiful memory.",
-    photos: "GOOGLE_PHOTOS_LINK_2"
+    photos: "https://drive.google.com/drive/folders/1jgDJiw8zeR-Gak6QFxdU_BSo-VsmCJax?usp=sharing"
   },
   {
     date: "05 April 2025",
     place: "Peradeniya Botanical Garden",
     photo: "assets/memory-03.jpg",
     description: "A day surrounded by nature, laughter, and the two of us.",
-    photos: "GOOGLE_PHOTOS_LINK_3"
+    photos: "https://drive.google.com/drive/folders/1NCiGXmUFGuwf8VhodWGuoliPr8pXQ0oL?usp=sharing"
   },
   {
     date: "01 July 2025",
     place: "School – Badging of Prefects",
     photo: "assets/memory-04.jpg",
     description: "A proud moment worth remembering together.",
-    photos: "GOOGLE_PHOTOS_LINK_4"
+    photos: "https://drive.google.com/drive/folders/1bkFvXgfhpxOKmirbIZACxTfsxtN1IFrI?usp=sharing"
   },
   {
     date: "22 August 2025",
     place: "Negombo Beach",
     photo: "assets/memory-05.jpg",
     description: "Salt in the air, waves nearby, and another memory with you.",
-    photos: "GOOGLE_PHOTOS_LINK_5"
+    photos: "https://drive.google.com/drive/folders/1sXoacGw9GiPNCYTT4lEXtAsR_vtAt8Mz?usp=sharing"
   },
   {
     date: "13 September 2025",
     place: "Baddegana Park",
     photo: "assets/memory-06.jpg",
     description: "One more peaceful day added to our little collection of moments.",
-    photos: "GOOGLE_PHOTOS_LINK_6"
+    photos: "https://drive.google.com/drive/folders/1YeYcJDZwV7S7eTyrZoULjRbnI4XZB5Fy?usp=sharing"
   },
   {
     date: "14 February 2026",
     place: "Sri Pada",
     photo: "assets/memory-07.jpg",
     description: "A special day, a special place, and a memory I will always keep.",
-    photos: "GOOGLE_PHOTOS_LINK_7"
+    photos: "https://drive.google.com/drive/folders/16SFVVnkXtV0nlWLftjC7_hcI5oRw22vO?usp=sharing"
   },
   {
     date: "12 April 2026",
     place: "Kirindiwala",
     photo: "assets/memory-08.jpg",
     description: "Another adventure, another page in our story.",
-    photos: "GOOGLE_PHOTOS_LINK_8"
+    photos: "https://drive.google.com/drive/folders/1hCnBaiJzvAZTWA7zBlUPAgxdmL0TfK3i?usp=sharing"
   },
   {
     date: "01 September 2026",
     place: "Negombo Beach",
     photo: "assets/memory-09.jpg",
     description: "One of the newest memories — just before our second anniversary.",
-    photos: "GOOGLE_PHOTOS_LINK_9"
+    photos: "https://drive.google.com/drive/folders/11hNXRVLeAkC6AvYUKhGPVepqE1uy1LIV?usp=sharing"
   }
 ];
 
